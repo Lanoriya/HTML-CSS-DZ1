@@ -1,0 +1,90 @@
+body {
+    background-color: #232323;
+}
+@font-face {
+    font-family: "Citta";
+    src: url("LaCitta/LaCittaShadow.woff2"),url("LaCitta/LaCittaShadow.woff");
+    font-style: normal;
+    font-display: swap;
+    font-weight: normal;
+}
+h1 {
+    font-family: 'Citta';
+    font-size: 110px;
+    color: #9097a1;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -80px;
+    color:rgb(185, 185, 185);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pic {
+    background-image:url("https://estetmag.ru/wp-content/uploads/2017/08/Говяжья-вырезка-с-лисичками-и-томатами-1152x759.jpg");
+    background-position: center center;
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 10px 10px 0 0;
+}
+.pic1 {
+    background-image:url("https://kartinkin.net/uploads/posts/2021-08/1627850001_53-kartinkin-com-p-gril-boks-yeda-krasivo-foto-62.jpg");
+    background-position: center center;
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 10px 10px 0 0;
+}
+.pic2 {
+    background-image:url("https://catherineasquithgallery.com/uploads/posts/2021-03/1614796543_136-p-fon-dlya-menyu-restorana-191.jpg");
+    background-position: center center;
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 10px 10px 0 0;
+}
+.textL {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: -58px;
+    color:white;
+}
+h3 {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0 auto;
+    margin-top: -58px;
+    height: 45px;
+    max-width: 1000px;
+    color:white;
+    background: linear-gradient(to top,rgba(0, 0, 0, 0.918),rgba(0, 0, 0, 0.438));
+    padding-top: 13px;
+}
+.grad1 {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0 auto;
+    margin-top: -429px;
+    height: 45px;
+    max-width: 1000px;
+    color:white;
+    background: linear-gradient(to top,rgba(0, 0, 0, 0.918),rgba(0, 0, 0, 0.438));
+    padding-top: 13px;
+}
+.grad2 {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0 auto;
+    margin-top: -429px;
+    height: 45px;
+    max-width: 1000px;
+    color:white;
+    background: linear-gradient(to top,rgba(0, 0, 0, 0.918),rgba(0, 0, 0, 0.438));
+    padding-top: 13px;
+}
